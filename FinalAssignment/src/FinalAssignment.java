@@ -10,11 +10,10 @@ import javafx.stage.Stage;
 import org.jfree.fx.FXGraphics2D;
 
 import java.awt.*;
-import java.awt.geom.Line2D;
 import java.awt.geom.Point2D;
 
 
-public class Eindopdracht extends Application {
+public class FinalAssignment extends Application {
     Canvas canvas = new Canvas(1280,720);
     Map map;
     Player player;
